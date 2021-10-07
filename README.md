@@ -15,7 +15,7 @@ Seth Kaufman: sethkaufman7@gmail.com <br />
 ├── README.md
 ├── data      <-- CSV 
 ├── Individuals Notebooks       <--- Directory for individual workspaces
-│   ├── meaghan
+│   ├── seth
 │   ├── lorela
 │   ├── rashid
 │   
