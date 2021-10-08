@@ -25,7 +25,6 @@ The project utilizes Time Series Models, specifically focused on ARIMA and SARIM
 ![Unknown-1](https://user-images.githubusercontent.com/82670256/136558177-d65ae03c-345e-43c8-936e-e3ec4874b4f4.png)
 
 
-
 # Results
 After narrowing down our top 5 zip codes, we began to look at what the Average ROI of the given zip code looks like. We found that all of the ROI's of each of our zip codes was significantly larger than the average ROI across all zip codes in Texas. This further suggests that these zip codes are some of the best zip codes across the state. 
 
