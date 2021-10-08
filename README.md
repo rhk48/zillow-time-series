@@ -42,27 +42,8 @@ Lastly, across all zip codes, our test and train root mean squared error (RMSE) 
 
 | Zip Code |Model|Test RMSE | Train RMSE | 
 | ------- | --- | --- |
-| Seconds | 301 | 283 |
-Zip Code Model Test RMSE Train RMSE
-75052    ARIMA
-$7,295
-$4,572
-75104
-SARIMAX
-$8,088
-$8,363
-76108
-ARIMA
-$5,920
-$8,480
-77571
-SARIMAX
-$6,227
-$8,722
-79423
-SARIMAX
-$5,153
-$2,420
+| 75052 | ARIMA | $7,295 |
+
 
 
 # Conclusion 
