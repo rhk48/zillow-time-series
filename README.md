@@ -49,10 +49,9 @@ Lastly, across all zip codes, our test and train root mean squared error (RMSE) 
 | 77571 | SARIMAX | $6,227 | $8,722 | 
 | 79423 | SARIMAX | $5,153 | $2,420 | 
 
-# Conclusion 
+# Conclusion & Future Steps
 TREI should invest in homes in the top 5 zip codes in the given areas we prove to be the best place for long-term investment success, based on our Affordability Score and ROI. 
 
-# Future Steps
 For a more comprehensive evaluation for TREI to find future to find more zip codes that have investment successes we should inquire into:
 - Expanding the model to work for other states.
 - Get the model to forecast for more than a few years. 
