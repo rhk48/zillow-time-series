@@ -13,8 +13,8 @@ This project analyzes a series of time series models to provide a real estate in
 - 79423: Lubbock (Northern area)
   
 # Business Understanding
+As independent real estate consultants, we have been contrancted by Texas Real Estate Investment (TREI) to find the top 5 zip codes they should invest that would offer them the greatest investment success. Based on our clients requests, we found that looking at the Affordability Score (the score representing the ability of a home buyer to pay thier mortage), and Average Return on Investment(ROI) in a given zip code are strong indicidators of whether a homes in a given zip code is worth investing in for TREI. Our task is to identify what these top 5 zip codes are based on our predictions through a number of Time Series models and present our findings to the client. 
 # Data Understanding and Preparation
-# Model Training and Testing
 # Conclusion and Future Steps 
 # For More Information 
 
@@ -31,7 +31,7 @@ Seth Kaufman: sethkaufman7@gmail.com <br />
 │   ├── lorela
 │   ├── rashid
 │   
-├── RealEstateProject.pdf   <-- non-technical presentation slides
+├── TimeSeriesPresentation.pdf   <-- non-technical presentation slides
 ├── final_notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
 └── .gitignore
 ```
