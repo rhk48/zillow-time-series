@@ -23,11 +23,10 @@ As independent real estate consultants, we have been contracted by Texas Real Es
 The project utilizes Time Series Models, specifically focused on ARIMA and SARIMAX models, running several iterations on the models to see within what range our models can capture the best prices of the zip codes. The data provided to us was from the Zillow Housing Data spanning from 1996 to 2018 with about 14,000 Zip codes within the United States, which after filtering down to specifically Texas we are left with 1,930 zip codes to filter through. Our other dataset comes from Missouri Census Data Center, Median Family Income that provided us insight to calculating our Affordability Score.
 
 # Results
-After narrowing down our top 5 zip codes, we began to look at what the Average ROI of the given zipcode looks like. We found that all of the ROI's of each of our zip codes was significatly larger then the average ROI across all zip codes in the Texas. This further suggests that these zipcodes are the strongest indicators  
+After narrowing down our top 5 zip codes, we began to look at what the Average ROI of the given zipcode looks like. We found that all of the ROI's of each of our zip codes was significatly larger then the average ROI across all zip codes in the Texas. This further suggests that these zipcodes are some of the best zipcodes across the state.   
 ![Unknown](https://user-images.githubusercontent.com/82670256/136482733-73546361-3a38-4675-a6fe-1b6012122bbd.png)
  
-![Unknown-1](https://user-images.githubusercontent.com/82670256/136482761-12b3db9f-c1f5-4daa-a4ab-28522067de6e.png)
-
+Further more, when looking at the a time series of what the average afforabitly score was across all zipcodes across the state and specifically looking at the average affordabitly score in each given zip code, we find that our top five zip codes have some of the best scores across the state. This ensures that TREI can trust that in these 5 zip codes, their is greater chance that home buyers will be able to pay off their home. 
 ![Unknown-2](https://user-images.githubusercontent.com/82670256/136482764-9d5a619f-b2af-4f79-b2fc-f56ea49e6259.png)
 
 # Conclusion and Future Steps 
