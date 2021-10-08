@@ -29,7 +29,7 @@ After narrowing down our top 5 zip codes, we began to look at what the Average R
 Further more, when looking at the a time series of what the average afforabitly score was across all zipcodes across the state and specifically looking at the average affordabitly score in each given zip code, we find that our top five zip codes have some of the best scores across the state. This ensures that TREI can trust that in these 5 zip codes, their is greater chance that home buyers will be able to pay off their home. 
 ![Unknown-2](https://user-images.githubusercontent.com/82670256/136482764-9d5a619f-b2af-4f79-b2fc-f56ea49e6259.png)
 
-After a series of optimization of our ARIMA models for each of the zip codes and manually testing the hyper parameters for each zipcode, we found that we can predict that an increase in price will occuur overtime. 
+After a series of optimizations of our ARIMA models for each of the zip codes and manually testing the hyper parameters for each zipcode in the SARIMAX, we found that we can predict that an increase in price will occuur overtime. Our best performing model for a singular zip code was ARIMA Model as seen below. 
 ![Unknown-3](https://user-images.githubusercontent.com/82670256/136556683-f90816d1-0df4-45be-bd78-6b734e8f1935.png)
 
 # Conclusion 
