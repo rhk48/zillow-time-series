@@ -38,7 +38,32 @@ After analyzing pricing behaviors for each zip code and noticed mainly linear up
 
 ![Unknown-3](https://user-images.githubusercontent.com/82670256/136556683-f90816d1-0df4-45be-bd78-6b734e8f1935.png)
 
-<img width="321" alt="Screen Shot 2021-10-08 at 8 49 16 AM" src="https://user-images.githubusercontent.com/82670256/136560236-794e6a24-8696-4239-a7bf-1dbf0a7a074b.png">
+Lastly, across all zip codes, our test and train root mean squared error (RMSE) prediction were off by $6,500 on average. Below you can see the root mean squared error for each zip code. 
+
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+Zip Code Model Test RMSE Test RMSE
+75052    ARIMA
+$7,295
+$4,572
+75104
+SARIMAX
+$8,088
+$8,363
+76108
+ARIMA
+$5,920
+$8,480
+77571
+SARIMAX
+$6,227
+$8,722
+79423
+SARIMAX
+$5,153
+$2,420
+
 
 # Conclusion 
 TREI should invest in homes in the top 5 zip codes in the given areas we prove to be the best place for long-term investment success, based on our Affordability Score and ROI. 
