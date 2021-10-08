@@ -37,8 +37,6 @@ After analyzing pricing behaviors for each zip code and noticed mainly linear up
 
 ![image](https://user-images.githubusercontent.com/82670256/136583120-3e51892a-8b1e-4d09-8655-61b7521f3aca.png)
 
-<img width="463" alt="Screen Shot 2021-10-08 at 11 23 07 AM" src="https://user-images.githubusercontent.com/82670256/136583557-62771d16-59b2-47e0-8676-f0b06f77f53d.png">
-
 
 Lastly, across all zip codes, our test and train root mean squared error (RMSE) prediction were off by $6,500 on average. Below you can see the root mean squared error for each zip code. 
 
