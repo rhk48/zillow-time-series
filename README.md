@@ -57,14 +57,14 @@ For a more comprehensive evaluation for TREI to find future to find more zip cod
 
 # Project Structure
   ```
-├── README.md
-├── data      <-- CSV 
-├── Individuals Notebooks       <--- Directory for individual workspaces
+├── data  <-- CSVs
+├── images 
+├── working notebooks       <--- Directory for individual workspaces
 │   ├── seth
 │   ├── lorela
 │   ├── rashid
-│   
+├── README.md
 ├── TimeSeriesPresentation.pdf   <-- non-technical presentation slides
-├── final_notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
+├── final_nb.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
 └── .gitignore
 ```
