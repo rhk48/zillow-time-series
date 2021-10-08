@@ -7,7 +7,7 @@ Authors:
 # Overview
 ![https---specials-images forbesimg com-dam-imageserve-1091770016-960x0 jpg?fit=scale](https://user-images.githubusercontent.com/82670256/136472341-8f62454c-20bc-4df1-abc1-e6ab32aa90e9.jpeg)
 
-This project analyzes a series of time series models to provide a real estate investment firm who would like to break into the Texas housing market. Based on a series of filtering, we found that the top 5 zip codes are:  
+This project analyzes a several of time series models to provide a real estate investment firm who would like to break into the Texas housing market. Based on a series of filtering, we found that the top 5 zip codes are:  
 - 76108: Fort Worth (Dallas area)
 - 75052: Grand Prairie (Dallas area)
 - 75104: Cedar Hill (Dallas area)
