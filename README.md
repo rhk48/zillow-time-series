@@ -40,10 +40,10 @@ After analyzing pricing behaviors for each zip code and noticed mainly linear up
 
 Lastly, across all zip codes, our test and train root mean squared error (RMSE) prediction were off by $6,500 on average. Below you can see the root mean squared error for each zip code. 
 
-| Attempt | #1  | #2  |
+| Zip Code |Model|Test RMSE | Train RMSE | 
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
-Zip Code Model Test RMSE Test RMSE
+Zip Code Model Test RMSE Train RMSE
 75052    ARIMA
 $7,295
 $4,572
