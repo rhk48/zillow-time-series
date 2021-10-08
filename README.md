@@ -30,10 +30,11 @@ The project utilizes Time Series Models, specifically focused on ARIMA and SARIM
 After narrowing down our top 5 zip codes, we began to look at what the Average ROI of the given zipcode looks like. We found that all of the ROI's of each of our zip codes was significatly larger then the average ROI across all zip codes in the Texas. This further suggests that these zipcodes are some of the best zipcodes across the state.   
 ![Unknown](https://user-images.githubusercontent.com/82670256/136482733-73546361-3a38-4675-a6fe-1b6012122bbd.png)
  
-Further more, when looking at the a time series of what the average afforabitly score was across all zipcodes across the state and specifically looking at the average affordabitly score in each given zip code, we find that our top five zip codes have some of the best scores across the state. This ensures that TREI can trust that in these 5 zip codes, their is greater chance that home buyers will be able to pay off their home. 
+Furthermore, when looking at the a time series of what the average afforabitly score was across all zipcodes across in the state above the 80th percentile
+and specifically looking at the average affordabitly score in each given zip code, we find that our top five zip codes have some of the best scores across the state. This ensures that TREI can trust that in these 5 zip codes, their is greater chance that home buyers will be able to pay off their home. 
 ![Unknown-2](https://user-images.githubusercontent.com/82670256/136482764-9d5a619f-b2af-4f79-b2fc-f56ea49e6259.png)
 
-After a series of optimizations of our ARIMA models for each of the zip codes and manually testing the hyper parameters for each zipcode in the SARIMAX, we found that we can predict that an increase in price will occuur overtime. Our best performing model for a singular zip code was ARIMA Model as seen below.
+After analyzing pricing behaviors for each zip code and noticed mainly linear upward trends, we used 1996-2015 prices to train our model, so it can predict 2016-2018 prices. Subsequantly, we condcuted a series of optimizations of our ARIMA models for each of the zip codes and manually testing the hyper parameters for each zipcode in the SARIMAX, we found that we can predict that an increase in price will occuur overtime. Our best performing model for a singular zip code was ARIMA Model as seen below. 
 
 ![Unknown-3](https://user-images.githubusercontent.com/82670256/136556683-f90816d1-0df4-45be-bd78-6b734e8f1935.png)
 
