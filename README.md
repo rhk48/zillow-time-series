@@ -42,9 +42,15 @@ Lastly, across all zip codes, our test and train root mean squared error (RMSE) 
 
 | Zip Code | Model | Test RMSE | Test RMSE | 
 | :---: | :---: | :---: | :---: | 
-| Seconds | 301 | 283 | 290 | 
-
-
+| 75052 | 301 | 283 | 290 | 
+| :---: | :---: | :---: | :---: | 
+| 75104 | 301 | 283 | 290 | 
+| :---: | :---: | :---: | :---: | 
+| 76108 | 301 | 283 | 290 | 
+| :---: | :---: | :---: | :---: | 
+| 77571 | 301 | 283 | 290 | 
+| :---: | :---: | :---: | :---: | 
+| 79423 | 301 | 283 | 290 | 
 
 # Conclusion 
 TREI should invest in homes in the top 5 zip codes in the given areas we prove to be the best place for long-term investment success, based on our Affordability Score and ROI. 
