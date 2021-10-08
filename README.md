@@ -38,6 +38,8 @@ After analyzing pricing behaviors for each zip code and noticed mainly linear up
 
 ![Unknown-3](https://user-images.githubusercontent.com/82670256/136556683-f90816d1-0df4-45be-bd78-6b734e8f1935.png)
 
+<img width="321" alt="Screen Shot 2021-10-08 at 8 49 16 AM" src="https://user-images.githubusercontent.com/82670256/136560236-794e6a24-8696-4239-a7bf-1dbf0a7a074b.png">
+
 # Conclusion 
 TREI should invest in homes in the top 5 zip codes in the given areas we prove to be the best place for long-term investment success, based on our Affordability Score and ROI. 
 
