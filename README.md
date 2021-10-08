@@ -3,7 +3,7 @@ Authors:
 - Lorela Blaka
 - Seth Kaufman
 - Rashid Karriti
-- 
+
 # Overview
 ![https---specials-images forbesimg com-dam-imageserve-1091770016-960x0 jpg?fit=scale](https://user-images.githubusercontent.com/82670256/136472341-8f62454c-20bc-4df1-abc1-e6ab32aa90e9.jpeg)
 
