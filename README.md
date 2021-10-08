@@ -35,7 +35,7 @@ Furthermore, when looking at the time series of what the average affordably scor
 
 After analyzing pricing behaviors for each zip code and noticed mainly linear upward trends, we used 1996-2015 prices to train our model, so it can predict 2016-2018 prices. Subsequently, we conducted a series of optimizations of our ARIMA models for each of the zip codes and manually testing the hyperparameters for each zip code in the SARIMAX, we found that we can predict that a price increase will occur overtime. Our best performing model for a singular zip code was ARIMA Model as seen below. 
 
-![Unknown-3](https://user-images.githubusercontent.com/82670256/136556683-f90816d1-0df4-45be-bd78-6b734e8f1935.png)
+![image](https://user-images.githubusercontent.com/82670256/136583120-3e51892a-8b1e-4d09-8655-61b7521f3aca.png)
 
 Lastly, across all zip codes, our test and train root mean squared error (RMSE) prediction were off by $6,500 on average. Below you can see the root mean squared error for each zip code. 
 
