@@ -29,14 +29,13 @@ After narrowing down our top 5 zip codes, we began to look at what the Average R
 Further more, when looking at the a time series of what the average afforabitly score was across all zipcodes across the state and specifically looking at the average affordabitly score in each given zip code, we find that our top five zip codes have some of the best scores across the state. This ensures that TREI can trust that in these 5 zip codes, their is greater chance that home buyers will be able to pay off their home. 
 ![Unknown-2](https://user-images.githubusercontent.com/82670256/136482764-9d5a619f-b2af-4f79-b2fc-f56ea49e6259.png)
 
-# Conclusion and Future Steps 
+# Conclusion 
+TREI should invest in homes in the top 5 zipcodes in the given areas we prove to be the best place for long term investment success, based on our Afforadiblity Score and ROI. 
 
-
-# For More Information 
-
-Lorela Blaka: lblaka@gmail.com <br />
-Rashid Karriti: rhk48@georgetown.edu <br />
-Seth Kaufman: sethkaufman7@gmail.com <br />
+# Future Steps
+For a more comprehensive evaluation for TREI to find future to find more zip codes that have investment successes we should inquire into:
+- Expanding the model to work for other states
+- Get the model to forecast more than a few years
 
 # Project Structure
   ```
