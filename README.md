@@ -41,6 +41,7 @@ After analyzing pricing behaviors for each zip code and noticed mainly linear up
 Lastly, across all zip codes, our test and train root mean squared error (RMSE) prediction were off by $6,500 on average. Below you can see the root mean squared error for each zip code. 
 
 | Zip Code | Model | Test RMSE | Test RMSE | 
+| :---: | :---: | :---: | :---: | 
 | 75052 | 301 | 283 | 290 | 
 | 75104 | 301 | 283 | 290 | 
 | 76108 | 301 | 283 | 290 | 
